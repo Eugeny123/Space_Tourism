@@ -1,0 +1,20 @@
+@media (max-width: 768px)  {
+  .crew__wrapper {
+		margin: 0 88px;
+	}
+  .crew__wrapper__content__description {
+		width: 592px;
+	}
+}
+
+@media (max-width: 375px) {
+  .crew__wrapper__content__description {
+		width: 327px;
+	}
+  .crew__wrapper {
+		margin: 0 24px;
+	}
+  main {
+    margin-bottom: 54px;
+  }
+}
